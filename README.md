@@ -8,7 +8,7 @@ Deep Learning y Sistemas Inteligentes - Sección 20
 Jeyner Arango - 201106 <br> Cristian Laynez - 201281
 
 ## EDA del dataset
-En ambos data set se analizo y se pudo ver que la data esta limpia, no existe data repetida ni redundante. Se encargo de llevar a cabo pasar valores de NA a -1 para una mejor administración de datos. Se encargo de guardar todos los datos ya procesados en el data set "_AllData.csv".
+En ambos data set se analizo y se pudo ver que la data esta limpia, no existe data repetida ni redundante. Se encargo de llevar a cabo pasar valores de NA a -1 para una mejor administración de datos. Se encargo de guardar todos los datos ya procesados en el data set "_AllData.csv". Lo que si se llevo a cabo fue la verificacion de tipos de variables en todas las columnas para que coincidan y no existan combinaciones extrañas.
 
 También se puede observar que la nota de calificación es de rango de 0 a 10.
 
